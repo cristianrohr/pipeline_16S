@@ -1,0 +1,25 @@
+# General
+MAX_MEMORY=20G
+THREADS=8
+
+# Mapping file
+MAPPING_FILE=
+
+# Filtering reads
+RF_QC=30
+RF_QC_OVER=90
+RF_MIN_LENGTH=400
+
+# Similarity values
+SIMILARITYS=80,90,97
+
+# Primers
+FORWARD=CCTACGGGNGGCWGCAG
+REVERSE=GGATTAGATACCCBDGTAGTC
+
+# Others
+STEP26_DB=Bacteria_RDP_trainset15_092015.fa
+
+USR=
+PID=
+PFX=
